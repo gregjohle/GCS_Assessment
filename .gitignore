@@ -4,6 +4,3 @@ dist/
 *.log
 .DS_Store
 dump.rdb
-
-# Documentation
-*.md
